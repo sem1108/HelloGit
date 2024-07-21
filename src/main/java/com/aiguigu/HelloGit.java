@@ -6,6 +6,7 @@ public class HelloGit {
         //在git仓库更新直接提交
         System.out.println("更新1");
         System.out.println("更新2");
+        System.out.println("更新3");
 
     }
 }
